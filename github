@@ -1,0 +1,6 @@
+git remote -v
+
+origin  https://github.com/YOUR-USERNAME/godot.git (fetch)
+origin  https://github.com/YOUR-USERNAME/godot.git (push)
+upstream  https://github.com/godotengine/godot.git (fetch)
+upstream  https://github.com/godotengine/godot.git (push)
